@@ -11,7 +11,9 @@ Syllabus & Course Materials : http://cs231n.stanford.edu/2017/syllabus.html
 Lecture Video : https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 Assignment1 : https://cs231n.github.io/assignments2017/assignment1/
+
 Assignment2 : https://cs231n.github.io/assignments2017/assignment2/
+
 Assignment3 : https://cs231n.github.io/assignments2017/assignment3/
 
 
